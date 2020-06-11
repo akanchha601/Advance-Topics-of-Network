@@ -1,0 +1,6 @@
+/var/log/argus/argus.out {
+    rotate 14
+    daily
+    compress
+    missingok
+}
